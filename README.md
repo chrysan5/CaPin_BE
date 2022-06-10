@@ -23,7 +23,7 @@
 - Capin link: https://capin.shop
 - Front-End GitHub Repository : https://github.com/Hyung-Keun/CaPin_FE
 - Back-End GitHub Respository : https://github.com/woong7361/hanghae99_final
-- Project Presentation Video : youtube
+- notion link : https://potent-polonium-ffc.notion.site/CAPIN-cfdecfb1cb544abeac3b617eec7d7876
  <details>
   <summary> Project Demo Video </summary>
   <br>
